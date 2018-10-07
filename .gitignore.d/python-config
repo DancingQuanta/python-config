@@ -1,0 +1,9 @@
+*
+!/.gitignore.d
+!/.gitignore.d/python-config
+!/.gitmodules
+!/.jupyter
+!/.jupyter/jupyter_notebook_config.py
+!/.jupyter/nbextensions
+!/.jupyter/nbextensions/jupyter-vim-binding
+!/.jupyter/notebook.json
